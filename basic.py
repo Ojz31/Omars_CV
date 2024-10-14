@@ -32,6 +32,6 @@ cv.imshow("dialte",dialte)
 erdode = cv.erode(dialte,(7,7),iterations=3)
 cv.imshow("erode",erdode)
 
-
+#hello
 
 cv.waitKey(0)
